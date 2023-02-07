@@ -10,7 +10,6 @@ public class Main {
             } else if (maps>0 && proverka) {
                     num= num + maps;
                     amount++;
-                    System.out.println(maps);
                 }
             }
         System.out.println("Cреднее число: " + num/amount);
